@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/edikk.iml" filepath="$PROJECT_DIR$/.idea/modules/edikk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/edikk_main.iml" filepath="$PROJECT_DIR$/.idea/modules/edikk_main.iml" group="edikk" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/edikk_test.iml" filepath="$PROJECT_DIR$/.idea/modules/edikk_test.iml" group="edikk" />
+    </modules>
+  </component>
+</project>
